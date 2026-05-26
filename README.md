@@ -2,7 +2,7 @@
 > ### ___小巧、易用、精准、高效___
 
 > [!NOTE]
-> __程序功能继承自项目 [`MHYLAUNCHER_GO V2`](https://github.com/FeiLingshu/mhyLauncher_Go)__
+> __程序功能继承自项目 [`MHYLAUNCHER_GO V2`](https://github.com/FeiLingshu/mhyLauncher_Go)__  
 > __程序UI继承自项目 [`MouseClicker`](https://github.com/FeiLingshu/MouseClicker)__
 > __所有程序均由作者本人开发__
 
