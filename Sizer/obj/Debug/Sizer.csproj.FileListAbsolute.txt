@@ -1,0 +1,14 @@
+C:\FeiLingshu\Desktop\Sizer\Sizer\obj\Debug\Sizer.csproj.AssemblyReference.cache
+C:\FeiLingshu\Desktop\Sizer\Sizer\obj\Debug\MainWindow.g.cs
+C:\FeiLingshu\Desktop\Sizer\Sizer\obj\Debug\App.g.cs
+C:\FeiLingshu\Desktop\Sizer\Sizer\obj\Debug\Sizer_MarkupCompile.cache
+C:\FeiLingshu\Desktop\Sizer\Sizer\obj\Debug\Sizer_MarkupCompile.lref
+C:\FeiLingshu\Desktop\Sizer\Sizer\bin\Debug\Sizer.exe.config
+C:\FeiLingshu\Desktop\Sizer\Sizer\bin\Debug\Sizer.exe
+C:\FeiLingshu\Desktop\Sizer\Sizer\bin\Debug\Sizer.pdb
+C:\FeiLingshu\Desktop\Sizer\Sizer\obj\Debug\App.baml
+C:\FeiLingshu\Desktop\Sizer\Sizer\obj\Debug\MainWindow.baml
+C:\FeiLingshu\Desktop\Sizer\Sizer\obj\Debug\Sizer.g.resources
+C:\FeiLingshu\Desktop\Sizer\Sizer\obj\Debug\Sizer.csproj.CoreCompileInputs.cache
+C:\FeiLingshu\Desktop\Sizer\Sizer\obj\Debug\Sizer.exe
+C:\FeiLingshu\Desktop\Sizer\Sizer\obj\Debug\Sizer.pdb
