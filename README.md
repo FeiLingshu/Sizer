@@ -1,6 +1,11 @@
 # __Sizer__
 > ### ___小巧、易用、精准、高效___
 
+> [!NOTE]
+> __程序功能继承自项目 [`MHYLAUNCHER_GO V2`](https://github.com/FeiLingshu/mhyLauncher_Go)__
+> __程序UI继承自项目 [`MouseClicker`](https://github.com/FeiLingshu/MouseClicker)__
+> __所有程序均由作者本人开发__
+
 > [!WARNING]
 > ___程序调用 `Win32API` 实现相关操作，不会触发反作弊检测，可放心使用___
 > - ___需要管理员权限运行（由于游戏进程可能以管理员身份运行）___
@@ -18,27 +23,20 @@
 
 <br/>
 
-![MouseClickerImg](https://raw.githubusercontent.com/FeiLingshu/MouseClicker/refs/heads/main/MouseClicker.png)<sup>___&emsp;此为展示图片，并非可点击的程序界面___</sup>
+![SizerImg](https://raw.githubusercontent.com/FeiLingshu/Sizer/refs/heads/main/Sizer.png)<sup>___&emsp;此为展示图片，并非可点击的程序界面___</sup>
 
 ### __功能__
-- [x] __支持常规鼠标按键点击（左键/中键/右键）__
-- [x] __支持配置点击间隔__
-   - [x] __使用高精度计时器+自动时间补偿，点击时间精确至±1ms__
-   - [x] __支持添加额外的随机延迟（可选）__
-- [x] __支持自定义点击位置（可选）__
-   - [x] __使用鼠标点击定位方式，简单易操作__
-   - [x] __支持多显示器定位__
-   - [x] __支持添加额外的随机移位（可选）__
-- [x] __使用全局低级别鼠标钩子（WH_MOUSE_LL）实现快捷键检测__
-   - [x] __避免传统注册方式可能产生的快捷键冲突__
-   - [x] __避免其他应用程序注册了相同的快捷键导致快捷键无响应__
+- [x] __支持目标窗口选择__
+- [x] __支持自定义窗口大小参数__
+   - [x] __参数支持存储至配置文件__
+   - [x] __配置文件中可存储多个大小参数，支持顺序切换__
+- [x] __支持自适应窗口框架，可实现配置游戏实际渲染画面大小__
+- [x] __使用事件响应，支持无效窗口信息自动销毁__
 - [x] __窗口默认置顶，可最小化至任务栏，确保显示效果的情况下避免遮挡__
-> __请注意：在 `Win11` 系统中，若最小化程序窗口，将自动丢失高精度计时器配置，以下说明来自 `MSDN`__
-> - __["从Windows 11开始，如果拥有窗口的进程完全被遮挡、最小化或最终用户看不见或听不见，Windows 不保证比默认系统分辨率更高的分辨率。"](https://learn.microsoft.com/zh-cn/windows/win32/api/timeapi/nf-timeapi-timebeginperiod#remarks)__
 
 - __程序现已支持本地配置文件__
 
-|__![PopupImg](https://raw.githubusercontent.com/FeiLingshu/MouseClicker/refs/heads/main/Popup.png)__|__选项在窗口标题栏右键菜单中可见！！！__<br/>__-\> 可配置是否保存窗口位置__<br/>__-\> 可配置是否保存用户设置__|
+|__![PopupImg](https://raw.githubusercontent.com/FeiLingshu/Sizer/refs/heads/main/Popup.png)__|__选项在窗口标题栏右键菜单中可见！！！__<br/>__-\> 可配置是否保存窗口位置__<br/>__-\> 可配置是否保存用户设置__|
 |:--------:|:----------------|
 
 > [!NOTE]
