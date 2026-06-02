@@ -23,6 +23,9 @@
 
 ![SizerImg](https://raw.githubusercontent.com/FeiLingshu/Sizer/refs/heads/main/Sizer.png)<sup>___&emsp;此为展示图片，并非可点击的程序界面___</sup>
 
+<sup>___点击'问号'按钮后，通过鼠标点击显示器中其他窗口，可进行窗口捕获___</sup></br>
+<sup>___若未显示窗口信息/窗口信息未更新，即该窗口处于内置白名单中（通常为系统核心进程产生的窗口）___</sup>
+
 ### __功能__
 - [x] __支持目标窗口选择__
 - [x] __支持自定义窗口大小参数__
