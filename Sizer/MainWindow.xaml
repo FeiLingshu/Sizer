@@ -16,7 +16,8 @@
     ResizeMode="CanMinimize"
     ShowActivated="True"
     ShowInTaskbar="True"
-    Topmost="True">
+    Topmost="True"
+    Icon="/imageres_68.ico">
     <WindowChrome.WindowChrome>
         <WindowChrome
             CaptionHeight="0"

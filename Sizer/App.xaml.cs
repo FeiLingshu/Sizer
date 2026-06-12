@@ -54,7 +54,10 @@ namespace Sizer
 
         private void OnProgramStarted(object state, bool timeout)
         {
-            window?.Activate();
+            Dispatcher.Invoke(new Action(() =>
+            {
+                window?.Activate();
+            }));
         }
 
         private void CurrentDomain_UnhandledException(object sender, UnhandledExceptionEventArgs e)
